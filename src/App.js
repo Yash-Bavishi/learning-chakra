@@ -1,8 +1,11 @@
-import './App.css';
+import background from './assets/download.png'
+
 
 function App() {
   return (
-    <h1 className='text-1xl'>KIng</h1>
+    <div className='App'>
+      Life is sad
+    </div>
   );
 }
 
